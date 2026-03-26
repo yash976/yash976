@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash Advani  
+### Java Backend Developer | Spring Boot | REST APIs | SQL | Microservices  
 
-<!--
-**yash976/yash976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Java backend developer focused on building real-world backend systems and scalable APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- **Languages:** Java, SQL  
+- **Frameworks:** Spring Boot, Spring MVC, Hibernate, JPA  
+- **Tools:** Maven, Git, Postman, Docker (Basics)  
+- **Databases:** MySQL, PostgreSQL  
+- **Others:** REST APIs, JWT Authentication, Microservices (learning)
+
+---
+
+## 📘 Projects (coming soon)  
+- 🔐 JWT Authentication API  
+- 📦 E-Commerce Backend  
+- 👥 Employee Management CRUD API  
+- 🎬 Movie Review Microservice
+
+---
+
+## 📫 Connect With Me  
+- LinkedIn: https://www.linkedin.com/in/yash-advani/  
+- Email: *your email here*
