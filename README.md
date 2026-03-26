@@ -13,6 +13,11 @@
 - **Others:** REST APIs, JWT Authentication, Microservices (learning)
 
 ---
+## 🚀 Projects
+
+### 🔹 Spring Boot CRUD API
+A complete RESTful CRUD API built using Spring Boot, Spring Data JPA, and MySQL.  
+🔗 **GitHub Repository:** https://github.com/yash976/springboot-crud-api
 
 ## 📘 Projects (coming soon)  
 - 🔐 JWT Authentication API  
