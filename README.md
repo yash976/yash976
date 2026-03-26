@@ -24,4 +24,4 @@
 
 ## 📫 Connect With Me  
 - LinkedIn: https://www.linkedin.com/in/yash-advani/  
-- Email: *your email here*
+- Email: yashadvani973@gmail.com
