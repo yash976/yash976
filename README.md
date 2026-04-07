@@ -23,7 +23,7 @@ A complete RESTful CRUD API built using Spring Boot, Spring Data JPA, and MySQL.
 A complete employment management api built using Spring Boot, Spring Data JPA, and MySQL.
 
 🔗 **Repository:** https://github.com/yash976/springboot-crud-api
-https://github.com/yash976/employment-management-api
+https://github.com/yash976/employee-management-api
 ---
 
 ## 📘 Upcoming Projects
