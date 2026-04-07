@@ -18,14 +18,17 @@
 
 ### 🔹 Spring Boot CRUD API
 A complete RESTful CRUD API built using Spring Boot, Spring Data JPA, and MySQL.  
-🔗 **Repository:** https://github.com/yash976/springboot-crud-api
 
+### 🔹 employment-management-api
+A complete employment management api built using Spring Boot, Spring Data JPA, and MySQL.
+
+🔗 **Repository:** https://github.com/yash976/springboot-crud-api
+https://github.com/yash976/employment-management-api
 ---
 
 ## 📘 Upcoming Projects
 - 🔐 JWT Authentication API  
 - 📦 E-Commerce Backend  
-- 👥 Employee Management CRUD API  
 - 🎬 Movie Review Microservice  
 
 ---
