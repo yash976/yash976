@@ -28,9 +28,11 @@ https://github.com/yash976/jwt-authentication-api
 ---
 
 ## 📘 Upcoming Projects
-- 📦 E-Commerce Backend  
 - 🎬 Movie Review Microservice  
-
+- 💳 Payment Gateway Integration API  
+- 📢 Notification Service (Async Microservice) 
+- 📦 Inventory Management REST API
+  
 ---
 
 ## 📫 Connect With Me  
