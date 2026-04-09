@@ -25,6 +25,7 @@ A complete employment management api built using Spring Boot, Spring Data JPA, a
 🔗 **Repository:** https://github.com/yash976/springboot-crud-api
 https://github.com/yash976/employee-management-api
 https://github.com/yash976/jwt-authentication-api
+https://github.com/yash976/ecommerce-rest-api
 ---
 
 ## 📘 Upcoming Projects
