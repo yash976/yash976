@@ -27,12 +27,13 @@ https://github.com/yash976/employee-management-api
 https://github.com/yash976/jwt-authentication-api
 https://github.com/yash976/ecommerce-rest-api
 https://github.com/yash976/movie-review-service
+https://github.com/yash976/payment-gateway-integration
 ---
 
 ## 📘 Upcoming Projects
-- 💳 Payment Gateway Integration API  
+- 🔐 Rate Limiting & API Security Service
 - 📢 Notification Service (Async Microservice) 
-- 📦 Inventory Management REST API
+- 📦 Inventory Management REST AP
   
 ---
 
