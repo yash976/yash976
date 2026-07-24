@@ -25,6 +25,9 @@ A complete employment management api built using Spring Boot, Spring Data JPA, a
 ### 🔹 jwt-authentication-api
 A complete jwt authentication api built using Spring Boot, Spring Data JPA, spring security and MySQL.
 
+### 🔹 ecommerce-rest-api
+A complete ecommerce rest api built using Spring Boot, Spring Data JPA, spring security and MySQL.
+
 🔗 **Repository:** https://github.com/yash976/springboot-crud-api
 https://github.com/yash976/employee-management-api
 https://github.com/yash976/jwt-authentication-api
