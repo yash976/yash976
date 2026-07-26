@@ -28,6 +28,12 @@ A complete jwt authentication api built using Spring Boot, Spring Data JPA, spri
 ### 🔹 ecommerce-rest-api
 A complete ecommerce rest api built using Spring Boot, Spring Data JPA, spring security and MySQL.
 
+### 🔹 movie-review-service
+A complete movie review service built using Spring Boot, Spring Data JPA, spring security and MySQL.
+
+### 🔹 payment-gateway-integration
+A complete payment gateway integration built using Spring Boot, Spring Data JPA, spring security and MySQL.
+
 🔗 **Repository:** https://github.com/yash976/springboot-crud-api
 https://github.com/yash976/employee-management-api
 https://github.com/yash976/jwt-authentication-api
